@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="mavenpack.Test1"/>
+      <class name="webdriver.Facebook"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
